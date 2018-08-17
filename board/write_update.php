@@ -74,3 +74,17 @@ if(empty($msg)) {
 	alert("<?php echo $msg?>");
 	location.replace("<?php echo $replaceURL?>");
 </script>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>자유게시판 | Kurien's Library</title>
+		<link rel="stylesheet" href="./css/normalize.css" />
+		<link rel="stylesheet" href="./css/board.css" />
+	</head>
+	<body>
+		<p>
+			1-3. edit FB_A work 3 commit 4
+			-----------------------------
+		</p>
+	</body>
+</html>
