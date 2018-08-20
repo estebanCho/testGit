@@ -70,8 +70,10 @@
 			1-4. edit FB_A work 4 commit 3
 			####################################################################
 			18.8.20(월) Git
-			1. A feater branch test again
-			수정 FB_A_1
+			1. A feature branch test
+			update FB_A_1_2
+			2. A feature branch test
+			update FB_A_2_2
 		</p>
 	</article>
 </body>

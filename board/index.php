@@ -198,7 +198,9 @@
 	########################################################################
 		18.8.20(월) Git
 		1. A feater branch test again
-			수정 FB_A_1_2
+			수정 FB_A_1_1
+		2. A feature branch test
+			update FB_A_2_1
 	</p>
 </body>
 </html>

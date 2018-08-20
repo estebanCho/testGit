@@ -53,9 +53,11 @@
 	</article>
 	<p>
 		1-4. work 2 commit 2
-	</p>
-	<p>
 		4-1. multi branch test FB_B_1 edit commit
+		####################################################################
+		18.8.20(월) Git
+		1. A feature branch test
+		update FB_A_2_3
 	</p>
 </body>
 </html>
