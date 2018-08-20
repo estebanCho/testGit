@@ -195,9 +195,10 @@
 		     -----------------------------
 		1-3. edit FB_A work 1
 		1-4. edit FB_A work 1 commit 1
-	</p>
-	<p>
-		4-1. multi branch test FB_A_1 edit commit
+	########################################################################
+		18.8.20(월) Git
+		1. A feater branch test again
+			수정 FB_A_1_2
 	</p>
 </body>
 </html>
