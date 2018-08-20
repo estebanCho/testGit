@@ -177,6 +177,9 @@
 				</form>
 			</div>
 		</div>
+		<div>
+			v0.1
+		</div>
 	</article>
 </body>
 </html>
