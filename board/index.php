@@ -203,6 +203,9 @@
 			update FB_A_2_1
 		3. A feature branch test
 			update FB_A_3_1
+		4. B feature branch test
+			update FB_B_3_1
+
 	</p>
 </body>
 </html>

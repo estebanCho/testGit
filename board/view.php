@@ -60,6 +60,8 @@
 			update FB_A_2_3
 		2. A feature brnach test
 			update FB_A_3_3
+		3. B feature branch test
+			update FB_B_3_3
 	</p>
 </body>
 </html>

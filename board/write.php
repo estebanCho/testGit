@@ -76,7 +76,8 @@
 				update FB_A_2_2
 			3. A feature branch test
 				update FB_A_3_2
-
+			4. B feature branch test
+				update FB_B_3_2
 		</p>
 	</article>
 </body>
