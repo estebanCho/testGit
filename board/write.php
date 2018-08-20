@@ -71,9 +71,11 @@
 			####################################################################
 			18.8.20(월) Git
 			1. A feature branch test
-			update FB_A_1_2
+				update FB_A_1_2
 			2. A feature branch test
-			update FB_A_2_2
+				update FB_A_2_2
+			3. B feature branch test
+				update FB_B_3_2
 		</p>
 	</article>
 </body>
